@@ -5,13 +5,13 @@
   Hello, I'm [ABHI]
 - 😎 I love Coding
 
-- • Name = "Abhi"
+- Name = "Abhi"
 
-- • Class = "College"
+- Class = "College"
 
-- • Age = "16"
+- Age = "16"
 
-- • Country = "🇮🇳"
+- Country = "🇮🇳"
 
 ## 🏆Stats
 ![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DARKBOTZ-OS&show_icons=true&theme=tokyonight)
